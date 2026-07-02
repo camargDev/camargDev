@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou Lucas Camargo
 
-🚀 **Estudante  | Java  MySQL**  
+🚀 **Estudante  | 2º Ano  do Ensino Médio**  
 🇧🇷 Brazil
 
  
@@ -25,7 +25,7 @@ Estou profundamente focado em **arquitetura, desempenho, código limpo e soluç�
 
 ## 🧠 Oque eu faço:
 
--   🎓 Estudo Java & MySQL & React
+-   🎓 Estudo Java & MySQL & React & Python
 
 ---
 
