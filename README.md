@@ -23,9 +23,9 @@ Estou profundamente focado em **arquitetura, desempenho, código limpo e soluç�
 
 ---
 
-## 🧠 Oque eu faço:
+## 🧠 Sobre:
 
--   🎓 Estudo Java & MySQL & React & Python
+-   🎓 Olá! Sou Lucas Henrique Rodrigues Camargo, um estudante de desenvolvimento backend apaixonado por criar experiências digitais modernas e eficientes. Com foco em performance, design limpo e soluções profissionais, busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores.
 
 ---
 
@@ -48,10 +48,6 @@ Estou profundamente focado em **arquitetura, desempenho, código limpo e soluç�
 ![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-383838.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-20232A.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-![snake animation](https://github.com/<camrgDev>/<camargDev>/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 
